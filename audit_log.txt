@@ -1,0 +1,4 @@
+[2026-03-30 23:58:51]  LOGIN           EMP=—           User 'admin' logged in
+[2026-03-31 00:01:50]  LOGOUT          EMP=—           User logged out
+[2026-03-31 00:02:10]  LOGIN           EMP=—           User 'admin' logged in
+[2026-03-31 00:06:02]  LOGIN_FAILED    EMP=—           Account locked after 3 failed attempts
